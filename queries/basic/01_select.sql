@@ -24,3 +24,7 @@ FROM Products;
 -- Orders tablosundaki sipariş tarihlerini listele
 SELECT order_date
 FROM Orders;
+
+-- Order_Items tablosundaki ürün ve adet bilgilerini listele
+SELECT product_id, quantity
+FROM Order_Items;

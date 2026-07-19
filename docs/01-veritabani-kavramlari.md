@@ -22,4 +22,4 @@ Veritabanı kullanmanın temel amaçları şunlardır:
 - Veri tekrarını azaltmak
 - Veri bütünlüğünü korumak
 - Analiz ve raporlama süreçlerini kolaylaştırmak
-- Büyük veri kümeleri üzerinde performanslı işlemler gerçekleştirmek
+- Büyük veri kümeleri üzerinde performanslı işlemler gerçekleştirmek.
